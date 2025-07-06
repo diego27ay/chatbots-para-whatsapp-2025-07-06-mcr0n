@@ -94,6 +94,7 @@ Located at the bottom of the page:
     <ul class="space-y-2 text-sm">
         <li><a href="#" class="hover:text-white transition-colors">Términos y Condiciones</a></li>
         <li><a href="#" class="hover:text-white transition-colors">Política de Privacidad</a></li>
+        <li><a href="https://newscontetcreation.com/" target="_blank" class="hover:text-white transition-colors">News Content Creation</a></li>
     </ul>
 </div>
 ```
